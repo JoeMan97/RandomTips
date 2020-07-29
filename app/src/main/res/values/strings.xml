@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RandomTips</string>
+    <string name="string_writeTip">"Write a tip"</string>
+    <string name="string_writeCategory">Write a category</string>
+    <string name="string_OtherTip">Other tip</string>
+    <string name="string_seeAll"><u>See all tips</u></string>
+    <string name="string_tipList">Tip list</string>
+    <string name="string_add">Add...</string>
+    <string name="string_delete">Delete...</string>
+    <string name="string_addTip">Add tip</string>
+    <string name="string_addCategory">Add category</string>
+    <string name="string_add2">Add</string>
+    <string name="string_delete2">Delete</string>
+    <string name="string_back">Back</string>
+    <string name="string_deleteTip">Delete tip</string>
+    <string name="string_deleteCategory">Delete category</string>
+    <string name="string_warning">WARNING: Deleting a category will delete the tips with that category as well.</string>
+    <string name="string_total">Total tips: </string>
+    <string name="string_category">Category</string>
+    <string name="string_tip">Tip</string>
+    <string name="string_update">Update</string>
+    <string name="string_updateTip">Update tip</string>
+    <string name="string_changeCategory">Change category</string>
+    <string name="string_updateCategory">Update category</string>
+    <string name="string_tips">Tips</string>
+    <string name="string_aHelpfulTip"><b>[ A helpful tip goes here :) ]</b></string>
+</resources>
