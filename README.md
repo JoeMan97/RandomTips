@@ -1,7 +1,7 @@
 # RandomTips
 
 ### ¿Qué es?
-- Una app que te muestra en su pantalla principal un tip diferente y aleatorio cada vez que desbloqueas el celular o presionas un botón.
+- Una app que te muestra en su pantalla principal un tip personalizado, diferente y aleatorio cada vez que desbloqueas el celular o presionas un botón.
 - Los tips los clasificas en categorías.
 - También puedes ver el listado de los tips de las diferentes categorías.
 - Puedes agregar, eliminar, o modificar los tips y las categorías que quieras.
